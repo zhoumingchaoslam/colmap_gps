@@ -4,7 +4,7 @@ ADD_GPS
 添加了gps约束，可以在界面进行设置
 
 1.使用Python文件夹下的rad_gps_data.py生成txt文件。
-并将生成的文件放到 config文件夹下，其实可以通过ui设置。
+并将生成的文件放到 config文件夹下，也可以通过ui设置。
 
 
 COLMAP
