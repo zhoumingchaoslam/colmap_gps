@@ -1,0 +1,16 @@
+/**
+ * @file global_defination.h.in
+ * @author Zhang Songpeng
+ * @version 1.0
+ * @date 2020-5-15
+ * @brief global defination
+ * @details workspace path
+ */
+#ifndef YD_FUSION_LOCALIZATION_GLOBAL_DEFINATION_H_IN_
+#define YD_FUSION_LOCALIZATION_GLOBAL_DEFINATION_H_IN_
+
+#include <string>
+
+const std::string WORK_SPACE_PATH = "@WORK_SPACE_PATH@";
+
+#endif
